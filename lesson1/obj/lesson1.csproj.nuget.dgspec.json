@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSC\\test1_1\\lesson1\\lesson1.csproj": {}
+    "C:\\VSC\\Itog_test\\test1_1\\lesson1\\lesson1.csproj": {}
   },
   "projects": {
-    "C:\\VSC\\test1_1\\lesson1\\lesson1.csproj": {
+    "C:\\VSC\\Itog_test\\test1_1\\lesson1\\lesson1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSC\\test1_1\\lesson1\\lesson1.csproj",
+        "projectUniqueName": "C:\\VSC\\Itog_test\\test1_1\\lesson1\\lesson1.csproj",
         "projectName": "lesson1",
-        "projectPath": "C:\\VSC\\test1_1\\lesson1\\lesson1.csproj",
+        "projectPath": "C:\\VSC\\Itog_test\\test1_1\\lesson1\\lesson1.csproj",
         "packagesPath": "C:\\Users\\Serg\\.nuget\\packages\\",
-        "outputPath": "C:\\VSC\\test1_1\\lesson1\\obj\\",
+        "outputPath": "C:\\VSC\\Itog_test\\test1_1\\lesson1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Serg\\AppData\\Roaming\\NuGet\\NuGet.Config"

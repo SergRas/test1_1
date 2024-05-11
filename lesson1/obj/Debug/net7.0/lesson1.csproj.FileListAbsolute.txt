@@ -1,0 +1,14 @@
+C:\VSC\Itog_test\test1_1\lesson1\bin\Debug\net7.0\lesson1.exe
+C:\VSC\Itog_test\test1_1\lesson1\bin\Debug\net7.0\lesson1.deps.json
+C:\VSC\Itog_test\test1_1\lesson1\bin\Debug\net7.0\lesson1.runtimeconfig.json
+C:\VSC\Itog_test\test1_1\lesson1\bin\Debug\net7.0\lesson1.dll
+C:\VSC\Itog_test\test1_1\lesson1\bin\Debug\net7.0\lesson1.pdb
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.AssemblyInfoInputs.cache
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.AssemblyInfo.cs
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.csproj.CoreCompileInputs.cache
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.dll
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\refint\lesson1.dll
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.pdb
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\lesson1.genruntimeconfig.cache
+C:\VSC\Itog_test\test1_1\lesson1\obj\Debug\net7.0\ref\lesson1.dll
